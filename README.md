@@ -39,14 +39,15 @@ We are truly grateful for citing our paper! The BibTex entry of our paper is:
 
 ```
 @article{ding2023graph,
-	title = {Graph clustering network with structure embedding enhanced},
-	journal = {Pattern Recognition},
-	pages = {109833},
-	year = {2023},
-	issn = {0031-3203},
-	doi = {https://doi.org/10.1016/j.patcog.2023.109833},
-	url = {https://www.sciencedirect.com/science/article/pii/S0031320323005319},
-	author = {Shifei Ding and Benyu Wu and Xiao Xu and Lili Guo and Ling Ding},
+title = {Graph clustering network with structure embedding enhanced},
+journal = {Pattern Recognition},
+volume = {144},
+pages = {109833},
+year = {2023},
+issn = {0031-3203},
+doi = {https://doi.org/10.1016/j.patcog.2023.109833},
+url = {https://www.sciencedirect.com/science/article/pii/S0031320323005319},
+author = {Shifei Ding and Benyu Wu and Xiao Xu and Lili Guo and Ling Ding},
 }
 ```
 
